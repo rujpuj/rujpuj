@@ -1,36 +1,57 @@
 ````markdown name=README.md
-# 👋 Hi, I'm an Aspiring Data Scientist📅
+# 👋 Hello, World! I'm an Aspiring Data Scientist
 
-Welcome to my GitHub! ✨✨
+![Data Science Banner](https://img.shields.io/badge/Data%20Science-%F0%9F%92%AB-blue) ![AI Banner](https://img.shields.io/badge/Artificial%20Intelligence-%F0%9F%A7%A0-green) ![Collaboration](https://img.shields.io/badge/Open%20to%20Collaboration-%F0%9F%92%BB-yellow)
 
-## About Me
+---
 
-I am a second-year B.Tech student specializing in Data Science and Artificial Intelligence Applications. Driven by curiosity and a collaborative spirit, I am passionate about leveraging data and technology to solve real-world problems.
+## 🌟 About Me
 
-## Skills
+🎓 **Second-year B.Tech student**  
+💡 Passionate about **Data Science & Artificial Intelligence**  
+🤝 Always ready to learn, collaborate, and innovate!  
+🕵️‍♂️ Curious explorer of data, technology, and ideas
 
-- **Programming:** Python, C
-- **Data Analytics & Visualization:** Tableau, MySQL
-- **Artificial Intelligence:** Machine Learning (ML), Deep Learning (DL)
-- **Application Development:** AI/ML/DL App Building, Web Development
+---
 
-## Interests
+## 🚀 My Skills
+
+| Programming | Data Visualization | Databases | AI/ML/DL | Application Dev |
+|:-----------:|:-----------------:|:---------:|:--------:|:---------------:|
+| Python, C   | Tableau           | MySQL     | AI, ML, DL | App & Web Building |
+
+- **Languages:** Python, C  
+- **Visualization:** Tableau  
+- **Databases:** MySQL  
+- **AI/ML/DL:** Machine Learning, Deep Learning, AI  
+- **Development:** App Building, Web Development
+
+---
+
+## 🔭 Interests
 
 - Data Science & Analytics
 - Artificial Intelligence & Machine Learning
 - Deep Learning & Research
 - App & Web Development
-- Collaborative Projects
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-
-## Let's Collaborate!
-
-I'm always open to connecting, learning, and working together on innovative projects in data science, AI, and application development. Feel free to reach out if you're interested in collaborating or discussing new ideas!
+- Team Projects & Collaboration
 
 ---
 
-*Aspiring to become a versatile data scientist, ready to tackle tomorrow’s challenges through data and innovation.*
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+
+---
+
+## 🤝 Let's Collaborate!
+
+I am always excited to connect with fellow students, professionals, and innovators.  
+Feel free to reach out if you want to work together or discuss new ideas!
+
+---
+
+<p align="center"><i>Aspiring to become a versatile data scientist,<br>
+ready to tackle tomorrow’s challenges through data and innovation.</i></p>
+
 ````
