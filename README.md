@@ -1,7 +1,7 @@
 ````markdown name=README.md
-# 👋 Hi, I'm an Aspiring Data Scientist
+# 👋 Hi, I'm an Aspiring Data Scientist📅
 
-Welcome to my GitHub!
+Welcome to my GitHub! ✨✨
 
 ## About Me
 
