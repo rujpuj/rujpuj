@@ -14,6 +14,15 @@
 
 Welcome to my GitHub profile!
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-1000%2B-orange?style=flat-square">
+  <img src="https://img.shields.io/github/followers/rujpuj?label=Followers&style=flat-square">
+  <img src="https://img.shields.io/github/stars/rujpuj?label=Stars&style=flat-square">
+  <img src="https://img.shields.io/badge/Shortlisted%20in%20Hackathons-Yes-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Top%20Contributor-Data%20Science-blueviolet?style=flat-square">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square">
+</p>
+
 ---
 
 ## 🌟 About Me
@@ -29,11 +38,20 @@ Welcome to my GitHub profile!
 
 <div align="center">
 
-| 💻 Programming      | 📊 Data Visualization | 🗄️ Databases | 🤖 AI/ML/DL      | 🌐 App & Web Dev         |
-|:------------------:|:--------------------:|:------------:|:----------------:|:-----------------------:|
-| Python, C          | Tableau              | MySQL        | AI, ML, DL       | App Building, Web Dev   |
+| 💻 Programming      | 📊 Data Visualization   | 🗄️ Databases       | 🤖 AI/ML/DL         | 🌐 App & Web Dev         |
+|:------------------:|:----------------------:|:------------------:|:-------------------:|:-----------------------:|
+| Python, C          | Tableau, PowerBI       | MySQL, SQLite      | AI, ML, DL          | App Building, Web Dev   |
 
 </div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Shortlisted in National Hackathons**
+- 🔥 **1000+ Profile Views**
+- 🌟 **Top Contributor in Data Science**
+- 🎯 **Open Source Contributor**
 
 ---
 
@@ -52,6 +70,9 @@ Welcome to my GitHub profile!
 <p align="center">
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail&style=for-the-badge" alt="Gmail">
   </a>
 </p>
 
