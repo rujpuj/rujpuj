@@ -10,16 +10,16 @@
 
 ---
 
-# 👋 Hello, I'm an Aspiring Data Scientist!
-
-Welcome to my GitHub profile!
+<h1 align="center">👋 Hi there, I'm <span style="color:#3498db;">Ruj Puj</span> — Aspiring Data Scientist!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-1000%2B-orange?style=flat-square">
-  <img src="https://img.shields.io/github/followers/rujpuj?label=Followers&style=flat-square">
-  <img src="https://img.shields.io/github/stars/rujpuj?label=Stars&style=flat-square">
-  <img src="https://img.shields.io/badge/Shortlisted%20in%20Hackathons-Yes-success?style=flat-square">
+  <img src="https://img.shields.io/github/followers/rujpuj?label=Followers&style=social">
+  <img src="https://img.shields.io/github/stars/rujpuj?label=Stars&style=social">
+  <img src="https://img.shields.io/badge/Hackathon%20Shortlist-Yes-success?style=flat-square">
   <img src="https://img.shields.io/badge/Top%20Contributor-Data%20Science-blueviolet?style=flat-square">
+  <img src="https://img.shields.io/badge/Leetcode-Active-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Kaggle-Enthusiast-blue?style=flat-square">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square">
 </p>
 
@@ -27,20 +27,20 @@ Welcome to my GitHub profile!
 
 ## 🌟 About Me
 
-🎓 **Second-year B.Tech student in Data Science & AI Applications**  
-💡 Passionate about creating solutions with Data, AI, and Technology  
-🤝 Enthusiastic collaborator and lifelong learner  
-🕵️‍♂️ Always curious and ready for new challenges
+- 🎓 **Second-year B.Tech student in Data Science & AI Applications**
+- 💡 **Innovator:** Passionate about creating impactful solutions using Data, AI, and Tech
+- 🤝 **Team Player:** Enthusiastic collaborator and lifelong learner
+- 🕵️‍♂️ **Curious:** Always ready for new challenges, learning, and growth
 
 ---
 
-## 🚀 Skills
+## 🚀 Skills & Tools
 
 <div align="center">
 
-| 💻 Programming      | 📊 Data Visualization   | 🗄️ Databases       | 🤖 AI/ML/DL         | 🌐 App & Web Dev         |
-|:------------------:|:----------------------:|:------------------:|:-------------------:|:-----------------------:|
-| Python, C          | Tableau, PowerBI       | MySQL, SQLite      | AI, ML, DL          | App Building, Web Dev   |
+| 💻 Programming      | 📊 Visualization      | 🗄️ Databases     | 🤖 AI/ML/DL       | 🌐 Web/App Dev        | ⚙️ Other Tools         |
+|:------------------:|:--------------------:|:----------------:|:-----------------:|:---------------------:|:----------------------:|
+| Python, C, SQL     | Tableau, PowerBI     | MySQL, SQLite    | scikit-learn, Keras, TensorFlow | Flask, HTML, CSS, JS | Git, GitHub, Colab, VS Code |
 
 </div>
 
@@ -48,10 +48,12 @@ Welcome to my GitHub profile!
 
 ## 🏆 Achievements
 
-- 🥇 **Shortlisted in National Hackathons**
+- 🥇 **Shortlisted in National Hackathons (2024)**
+- 🌟 **Top 10% Contributor in Data Science Communities**
 - 🔥 **1000+ Profile Views**
-- 🌟 **Top Contributor in Data Science**
-- 🎯 **Open Source Contributor**
+- 🥈 **Leetcode Problem Solver (Active)**
+- 🎯 **Kaggle Enthusiast**
+- 🚀 **Open Source Contributor**
 
 ---
 
@@ -61,11 +63,12 @@ Welcome to my GitHub profile!
 - Artificial Intelligence & Machine Learning  
 - Deep Learning & Research  
 - App & Web Development  
+- Tech for Social Good  
 - Collaborative Projects
 
 ---
 
-## 🌐 Connect with Me
+## 📬 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
@@ -74,20 +77,27 @@ Welcome to my GitHub profile!
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail&style=for-the-badge" alt="Gmail">
   </a>
+  <a href="https://leetcode.com/rujpuj/">
+    <img src="https://img.shields.io/badge/Leetcode-Profile-yellow?logo=leetcode&style=for-the-badge" alt="Leetcode">
+  </a>
+  <a href="https://kaggle.com/rujpuj">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=for-the-badge" alt="Kaggle">
+  </a>
 </p>
 
 ---
 
 ## 🤝 Let's Collaborate!
 
-I am always excited to connect with fellow students, professionals, and innovators.  
-Feel free to reach out if you want to work together or discuss new ideas!
+I love connecting with fellow students, professionals, and innovators.  
+If you’re passionate about data, AI, or building cool tech, let’s work together or discuss new ideas!
 
 ---
 
 <p align="center">
   <em>
     Aspiring to become a versatile data scientist,<br>
-    ready to tackle tomorrow’s challenges through data and innovation.
+    ready to tackle tomorrow’s challenges through data and innovation.<br>
+    <b>Let's learn, build, and grow together!</b>
   </em>
 </p>
