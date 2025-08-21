@@ -1,8 +1,5 @@
 ````markdown name=README.md
 # 👋 Hello, World! I'm an Aspiring Data Scientist
-
-![Data Science Banner](https://img.shields.io/badge/Data%20Science-%F0%9F%92%AB-blue) ![AI Banner](https://img.shields.io/badge/Artificial%20Intelligence-%F0%9F%A7%A0-green) ![Collaboration](https://img.shields.io/badge/Open%20to%20Collaboration-%F0%9F%92%BB-yellow)
-
 ---
 
 ## 🌟 About Me
