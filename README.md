@@ -1,4 +1,3 @@
-````markdown name=README.md
 <!-- Banner Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-%F0%9F%92%AB-blue?style=for-the-badge">
@@ -71,22 +70,3 @@ Feel free to reach out if you want to work together or discuss new ideas!
     ready to tackle tomorrow’s challenges through data and innovation.
   </em>
 </p>
-
-````
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-
----
-
-## 🤝 Let's Collaborate!
-
-I am always excited to connect with fellow students, professionals, and innovators.  
-Feel free to reach out if you want to work together or discuss new ideas!
-
----
-
-<p align="center"><i>Aspiring to become a versatile data scientist,<br>
-ready to tackle tomorrow’s challenges through data and innovation.</i></p>
-
-````
