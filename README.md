@@ -10,7 +10,7 @@
 
 ---
 
-<h1 align="center">👋 Hi there, I'm <span style="color:#3498db;">Ruj Puj</span> — Aspiring Data Scientist!</h1>
+<h1 align="center">👋 Heya, I'm <span style="color:#3498db;">Rujul Pujari</span> — Aspiring Data Scientist!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-1000%2B-orange?style=flat-square">
